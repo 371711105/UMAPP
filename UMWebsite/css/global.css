@@ -1,0 +1,9 @@
+﻿/* Begin 错误信息验证样式*/
+input.error, input.error:focus {
+    border-color: red;
+}
+
+label.error {
+    color: red;
+}
+/* Begin 错误信息验证样式*/

@@ -1,0 +1,226 @@
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\ApplicationInsights.config
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\csc.exe
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\System.Collections.Immutable.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\vbc.exe
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\VBCSCompiler.exe
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\roslyn\VBCSCompiler.exe.config
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\UMAPP.dll.config
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\UMAPP.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\UMAPP.pdb
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Antlr3.Runtime.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\EntityFramework.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\EntityFramework.SqlServer.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.Web.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.WindowsServer.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.ApplicationInsights.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Google.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Newtonsoft.Json.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Owin.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Net.Http.Formatting.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Helpers.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Http.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Http.Owin.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Http.WebHost.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Mvc.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Optimization.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Razor.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.WebPages.Deployment.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.WebPages.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.WebPages.Razor.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\WebGrease.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.Web.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AI.WindowsServer.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.ApplicationInsights.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Newtonsoft.Json.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Net.Http.Formatting.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Helpers.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Http.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Http.WebHost.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Mvc.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Optimization.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Razor.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.WebPages.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.WebPages.Deployment.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.WebPages.Razor.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Antlr3.Runtime.pdb
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\EntityFramework.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\EntityFramework.SqlServer.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Google.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\bin\System.Web.Http.Owin.xml
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\obj\Debug\UMAPP.dll
+c:\users\小强\documents\visual studio 2015\Projects\UMAPP\UMAPP\obj\Debug\UMAPP.pdb
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\小强\Documents\Visual Studio 2015\Projects\UMAPP\UMAPP\obj\Debug\UMAPP.csprojResolveAssemblyReference.cache
+C:\_github\UMAPP\UMAPP\bin\ApplicationInsights.config
+C:\_github\UMAPP\UMAPP\bin\roslyn\csc.exe
+C:\_github\UMAPP\UMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_github\UMAPP\UMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_github\UMAPP\UMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_github\UMAPP\UMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_github\UMAPP\UMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_github\UMAPP\UMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_github\UMAPP\UMAPP\bin\roslyn\System.Collections.Immutable.dll
+C:\_github\UMAPP\UMAPP\bin\roslyn\System.Reflection.Metadata.dll
+C:\_github\UMAPP\UMAPP\bin\roslyn\vbc.exe
+C:\_github\UMAPP\UMAPP\bin\roslyn\VBCSCompiler.exe
+C:\_github\UMAPP\UMAPP\bin\roslyn\VBCSCompiler.exe.config
+C:\_github\UMAPP\UMAPP\bin\UMAPP.dll.config
+C:\_github\UMAPP\UMAPP\bin\UMAPP.dll
+C:\_github\UMAPP\UMAPP\bin\UMAPP.pdb
+C:\_github\UMAPP\UMAPP\bin\Antlr3.Runtime.dll
+C:\_github\UMAPP\UMAPP\bin\EntityFramework.dll
+C:\_github\UMAPP\UMAPP\bin\EntityFramework.SqlServer.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.DependencyCollector.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.Web.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.WindowsServer.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.ApplicationInsights.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Google.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Web.Infrastructure.dll
+C:\_github\UMAPP\UMAPP\bin\Newtonsoft.Json.dll
+C:\_github\UMAPP\UMAPP\bin\Owin.dll
+C:\_github\UMAPP\UMAPP\bin\System.Net.Http.Formatting.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.Helpers.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.Http.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.Http.Owin.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.Http.WebHost.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.Mvc.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.Optimization.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.Razor.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.WebPages.Deployment.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.WebPages.dll
+C:\_github\UMAPP\UMAPP\bin\System.Web.WebPages.Razor.dll
+C:\_github\UMAPP\UMAPP\bin\WebGrease.dll
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.DependencyCollector.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.Web.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AI.WindowsServer.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.ApplicationInsights.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_github\UMAPP\UMAPP\bin\Newtonsoft.Json.xml
+C:\_github\UMAPP\UMAPP\bin\System.Net.Http.Formatting.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.Helpers.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.Http.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.Http.WebHost.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.Mvc.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.Optimization.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.Razor.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.WebPages.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.WebPages.Deployment.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.WebPages.Razor.xml
+C:\_github\UMAPP\UMAPP\bin\Antlr3.Runtime.pdb
+C:\_github\UMAPP\UMAPP\bin\EntityFramework.xml
+C:\_github\UMAPP\UMAPP\bin\EntityFramework.SqlServer.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Google.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\_github\UMAPP\UMAPP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\_github\UMAPP\UMAPP\bin\System.Web.Http.Owin.xml
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.Http.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\EntityFramework.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\_github\UMAPP\UMAPP\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\_github\UMAPP\UMAPP\obj\Debug\UMAPP.csprojResolveAssemblyReference.cache
+C:\_github\UMAPP\UMAPP\obj\Debug\UMAPP.dll
+C:\_github\UMAPP\UMAPP\obj\Debug\UMAPP.pdb
