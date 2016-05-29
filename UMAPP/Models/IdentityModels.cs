@@ -29,5 +29,7 @@ namespace UMAPP.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<UMAPP.Models.PictureModel> PictureModels { get; set; }
     }
 }
